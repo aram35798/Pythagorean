@@ -1,4 +1,4 @@
-# PythagoreanA Python-based program that calculates the length of the hypotenuse or the missing side of a right triangle using the Pythagorean theorem.
+Python-based program that calculates the length of the hypotenuse or the missing side of a right triangle using the Pythagorean theorem.
 
 Description
 
